@@ -1,0 +1,29 @@
+{
+  "name": "getting_started_with_jest",
+  "version": "1.0.0",
+  "description": "This is a dummy project to learn how to run tests with Jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisberg13100/Getting_started_with_JEST.git"
+  },
+  "keywords": [
+    "Jest",
+    "node.js",
+    "test",
+    "TDD"
+  ],
+  "author": "Dennis van den Berg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennisberg13100/Getting_started_with_JEST/issues"
+  },
+  "homepage": "https://github.com/dennisberg13100/Getting_started_with_JEST#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
